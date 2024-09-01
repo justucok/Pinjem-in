@@ -1,0 +1,5 @@
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path_android: "lib/app/assets/app_logo/app-icon-staging.png"
+  remove_alpha_ios: true
